@@ -43,7 +43,7 @@
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub Profile">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://your-portfolio-link.com">
+<a href=" https://portfolio1pankaj.netlify.app/">
   <img src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Portfolio" title="Portfolio">
 </a>
 
