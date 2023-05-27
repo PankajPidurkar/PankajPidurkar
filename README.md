@@ -1,60 +1,77 @@
-# Hello, I'm Pankaj_Pidurkar! 👋
+<h2 align="center" style="font-size: 50px;">Hello, I'm Pankaj_Pidurkar! 👋</h2>
 
-Entry-level Data Analyst with a passion for extracting insights from complex datasets and utilizing statistical techniques to drive informed business decisions.
+
+
+ <p align="right">
+  <a href="/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ/fullscreen"></a>
+</p>
+
 
 ## 📚 About Me
 
-- [Mention your background, skills, and expertise.]
-- [Include any notable achievements or projects you've worked on.]
+- <h2 align = "left" >Entry-level Data Analyst with a passion for extracting insights from complex datasets and utilizing statistical techniques to drive informed business decisions.</h2>
+
+
 
 ## 🛠️ Skills
 
-- Power BI 
- <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
-- Excel 
-  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
-- MySQL 
-<img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
-- Python 
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+[![Power BI](https://img.icons8.com/color/48/power-bi.png)](https://powerbi.microsoft.com/)
+&nbsp;&nbsp;&nbsp;
+[![Excel](https://img.icons8.com/color/48/microsoft-excel-2019--v1.png)](https://www.microsoft.com/en-us/microsoft-365/excel)
+&nbsp;&nbsp;&nbsp;
+[![MySQL](https://img.icons8.com/color/48/mysql-logo.png)](https://www.mysql.com/)
+&nbsp;&nbsp;&nbsp;
+[![Python](https://img.icons8.com/color/48/python--v1.png)](https://www.python.org/)
 
+
+
+## 📫 How to Reach Me
+&nbsp;
+<a href="tel:+91-7066194560">
+  <img src="https://img.icons8.com/color/48/000000/phone.png" alt="Phone" title="Phone: +91-7066194560">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:Pankajpidurkar86@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" title="Email: Pankajpidurkar86@gmail.com">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pankaj-pidurkar-8b1863257/">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn Profile">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/PankajPidurkar">
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub Profile">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Portfolio" title="Portfolio">
+</a>
 
 
 ## 🔭 Current Projects
 
 - [List the projects you are currently working on.]
 - [Provide a brief description of each project.]
+- Prr
+- prr
+- ppr
+- wer
+- wer
+- 
 
 ## 🌱 I'm Currently Learning
 
 - [Specify the subjects or technologies you are currently studying.]
 
-## 👯 Looking to Collaborate
-
-- [If you're interested in collaborating on projects, mention it here.]
-- [State the types of projects or areas you're interested in.]
 
 ## 💬 Ask Me About
 
-- [Highlight the topics or areas you're knowledgeable about and open to discussing.]
+- Data preprocessing and cleaning
+- Data visualization techniques
+- Querying and filtering data from database tables
+- Joins and combining data from multiple tables
+- Data Validation, Conditional Formatting 
 
-## 📫 How to Reach Me
-
-- [Provide your contact information or preferred method of communication.]
-
-## 📝 Blog Posts
-
-- [If you have a blog or have written any articles, link them here.]
-
-## ⚡ Fun Fact
-
-- [Share an interesting or fun fact about yourself.]
-
-## 📈 GitHub Stats
-
-[Insert the GitHub statistics card showcasing your activity and contributions.]
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 ## 🌟 Featured Projects
 
@@ -64,17 +81,12 @@ Entry-level Data Analyst with a passion for extracting insights from complex dat
 
 [Include a list of your repositories with brief descriptions.]
 
-## 🏆 GitHub Trophies
 
-[If you've earned any trophies or achievements on GitHub, mention them here.]
+<!-- ## 🎧 Now Playing
 
-## 🎧 Now Playing
+[Cupid ]
 
-[If you use a music streaming service, you can show your currently playing song.]
-
-![Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyuserid&cover_image=true&theme=novatorem)
-
+![Now Playing][(https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyuserid&cover_image=true&theme=novatorem/https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7?si=afd39ab5fc924539)](https://images.app.goo.gl/5UGCss3UDEfyD1mz6) -->
 ## 🙏 Support
 
-[If you have a crowdfunding or support link, you can add it here.]
 
