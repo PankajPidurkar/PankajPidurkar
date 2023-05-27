@@ -50,7 +50,7 @@
 
 ## 🔭 Projects
 
-- E-commerce Store Sales Analysis  ➡️ [Click here](link_to_personal_portfolio)
+- E-commerce Store Sales Analysis  ➡️ [Click here]([link_to_personal_portfolio](https://celadon-licorice-add84c.netlify.app))
 - Opportunity Analysis ➡️ [Click here](link_to_personal_portfolio)
 - Adidas Sales Analysis ➡️ [Click here](link_to_personal_portfolio)
 - Cocid - 19 Pandemic Analysis ➡️ [Click here](link_to_personal_portfolio)
