@@ -90,11 +90,8 @@
 
 ## 🙏 Support
 
-If you need any assistance or have any questions, feel free to reach out. We're here to help!
-
 📧 Email: [pankajpidurkar86@gmail.com](mailto:pankajpidurkar86@gmail.com)
 
-We appreciate your support and feedback. Thank you for using our repositories!
 
 <div align="center">
   <a href="https://github.com/username">
