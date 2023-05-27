@@ -83,10 +83,10 @@
 
 ## 🗂️ Repositories
 
-- Personal_Portfolio ➡️ [Click here](link_to_personal_portfolio)
-- Powerbi_Projects ➡️ [Click here](link_to_powerbi_projects)
-- SQL_Projects ➡️ [Click here](link_to_sql_projects)
-- Tableau/Excel_Project ➡️ [Click here](link_to_tableau_excel_project)
+- Personal_Portfolio ➡️ [Click here](https://github.com/PankajPidurkar/Pankaj_Portfolio)
+- Powerbi_Projects ➡️ [Click here](https://github.com/PankajPidurkar/Powerbi_Projects.git)
+- SQL_Projects ➡️ [Click here](https://github.com/PankajPidurkar/SQL_Projects.git)
+- Tableau/Excel_Project ➡️ [Click here](https://github.com/PankajPidurkar/Tableau_Excel_Project.git)
 
 ## 🙏 Support
 
