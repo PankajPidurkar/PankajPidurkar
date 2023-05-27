@@ -3,13 +3,13 @@
 
 
  <p align="right">
-  <a href="/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ/fullscreen"></a>
+ <img><a href="/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ/fullscreen"></a></img>
 </p>
 
 
 ## 📚 About Me
 
-- <h2 align = "left" >Entry-level Data Analyst with a passion for extracting insights from complex datasets and utilizing statistical techniques to drive informed business decisions.</h2>
+- <h align = "left" >Entry-level Data Analyst with a passion for extracting insights from complex datasets and utilizing statistical techniques to drive informed business decisions.</h>
 
 
 
@@ -48,21 +48,20 @@
 </a>
 
 
-## 🔭 Current Projects
+## 🔭 Projects
 
-- [List the projects you are currently working on.]
-- [Provide a brief description of each project.]
-- Prr
-- prr
-- ppr
-- wer
-- wer
-- 
+- E-commerce Store Sales Analysis  ➡️ [Click here](link_to_personal_portfolio)
+- Opportunity Analysis ➡️ [Click here](link_to_personal_portfolio)
+- Adidas Sales Analysis ➡️ [Click here](link_to_personal_portfolio)
+- Cocid - 19 Pandemic Analysis ➡️ [Click here](link_to_personal_portfolio)
+- Social Buzz Analysis ➡️ [Click here](link_to_personal_portfolio)
+- Online Store data Analysis ➡️ [Click here](link_to_personal_portfolio)
 
-## 🌱 I'm Currently Learning
-
-- [Specify the subjects or technologies you are currently studying.]
-
+## 🔭 SQL Projects
+-  Adidas Sales Analysis ➡️ [Click here](link_to_personal_portfolio)
+-  Covid - 19 Analysis ➡️ [Click here](link_to_personal_portfolio)
+-  Fifa 2k23 Data Analysis ➡️ [Click here](link_to_personal_portfolio)
+  
 
 ## 💬 Ask Me About
 
@@ -73,20 +72,36 @@
 - Data Validation, Conditional Formatting 
 
 
+## 🌱 I'm Currently Working On
+
+- Project of MedTourEAsy Traineeship
+
 ## 🌟 Featured Projects
 
-- [Highlight some of your notable projects with a brief description and links.]
+-  Data Analysis ➡️ [Click here](link_to_personal_portfolio)
+
 
 ## 🗂️ Repositories
 
-[Include a list of your repositories with brief descriptions.]
+- Personal_Portfolio ➡️ [Click here](link_to_personal_portfolio)
+- Powerbi_Projects ➡️ [Click here](link_to_powerbi_projects)
+- SQL_Projects ➡️ [Click here](link_to_sql_projects)
+- Tableau/Excel_Project ➡️ [Click here](link_to_tableau_excel_project)
 
-
-<!-- ## 🎧 Now Playing
-
-[Cupid ]
-
-![Now Playing][(https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyuserid&cover_image=true&theme=novatorem/https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7?si=afd39ab5fc924539)](https://images.app.goo.gl/5UGCss3UDEfyD1mz6) -->
 ## 🙏 Support
+
+If you need any assistance or have any questions, feel free to reach out. We're here to help!
+
+📧 Email: [pankajpidurkar86@gmail.com](mailto:pankajpidurkar86@gmail.com)
+
+We appreciate your support and feedback. Thank you for using our repositories!
+
+<div align="center">
+  <a href="https://github.com/username">
+    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub Profile" width="100px">
+  </a>
+</div>
+
+
 
 
