@@ -58,7 +58,7 @@
 - Online Store data Analysis ➡️ [Click here](link_to_personal_portfolio)
 
 ## 🔭 SQL Projects
--  Adidas Sales Analysis ➡️ [Click here](link_to_personal_portfolio)
+-  Adidas Sales Analysis ➡️ [Click here](https://raw.githubusercontent.com/PankajPidurkar/SQL_Projects/main/Adidas_Sales_SQL)
 -  Covid - 19 Analysis ➡️ [Click here](link_to_personal_portfolio)
 -  Fifa 2k23 Data Analysis ➡️ [Click here](link_to_personal_portfolio)
   
