@@ -75,9 +75,9 @@
 - Data Validation, Conditional Formatting 
 
 
-## 🌱 I'm Currently Working On
+<!-- ## 🌱 I'm Currently Working On
 
-- Project of MedTourEAsy Traineeship
+- Project of MedTourEAsy Traineeship -->
 
 ## 🌟 Featured Projects
 
