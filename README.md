@@ -22,10 +22,13 @@
 [![MySQL](https://img.icons8.com/color/48/mysql-logo.png)](https://www.mysql.com/)
 &nbsp;&nbsp;&nbsp;
 [![Python](https://img.icons8.com/color/48/python--v1.png)](https://www.python.org/)
+&nbsp;&nbsp;&nbsp;
+<img width="48" height="48" src="https://img.icons8.com/color/144/css3.png" alt="css3" title="CSS"/>
+&nbsp;&nbsp;&nbsp;
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"  title="HTML"/>
 
 
-
-## 📫 How to Reach Me
+## 📫 To Reach Me
 &nbsp;
 <a href="tel:+91-7066194560">
   <img src="https://img.icons8.com/color/48/000000/phone.png" alt="Phone" title="Phone: +91-7066194560">
