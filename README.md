@@ -55,6 +55,7 @@
 
 - E-commerce Store Sales Analysis  ➡️ [Click here](https://e-commerci.netlify.app/)
 - Opportunity Analysis ➡️ [Click here](link_to_personal_portfolio)
+- Loan Data Anlaysis ➡️ [Click here](https://github.com/PankajPidurkar/Python_Project/blob/main/Loan_Data_Analysis_Project_Pankit.ipynb)
 - Adidas Sales Analysis ➡️ [Click here](link_to_personal_portfolio)
 - Cocid - 19 Pandemic Analysis ➡️ [Click here](link_to_personal_portfolio)
 - Social Buzz Analysis ➡️ [Click here](link_to_personal_portfolio)
