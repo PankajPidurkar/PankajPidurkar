@@ -54,10 +54,10 @@
 ## 🔭 Projects
 
 - E-commerce Store Sales Analysis  ➡️ [Click here](https://e-commerci.netlify.app/)
-- Opportunity Analysis ➡️ [Click here](link_to_personal_portfolio)
+- Opportunity Analysis ➡️ [Click here](https://opportunityan.netlify.app/)
 - Loan Data Anlaysis ➡️ [Click here](https://github.com/PankajPidurkar/Python_Project/blob/main/Loan_Data_Analysis_Project_Pankit.ipynb)
-- Adidas Sales Analysis ➡️ [Click here](link_to_personal_portfolio)
-- Cocid - 19 Pandemic Analysis ➡️ [Click here](link_to_personal_portfolio)
+- Adidas Sales Analysis ➡️ [Click here](https://github.com/PankajPidurkar/SQL_Projects/blob/a45fc2363fdb062a3a1c20763ff7a18322752c4d/Adidas_Sales_SQL)
+- Cocid - 19 Pandemic Analysis ➡️ [Click here](https://covid-19pank.netlify.app/)
 - Social Buzz Analysis ➡️ [Click here](link_to_personal_portfolio)
 - Online Store data Analysis ➡️ [Click here](link_to_personal_portfolio)
 
